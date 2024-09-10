@@ -9,7 +9,7 @@
 - **Dashboard File:** Superstore_Dashboard.twbx
 - **Analysis Report:** Superstore_Analysis_Report.pdf
 - **README File:** README.md
-- **Dataset File:** Superstore+Dataset+-+Analysis+ (1)
+- **Dataset File:** Superstore+Dataset+-+Analysis+ (1).xlsx
 
 ## Dashboard Overview
 
